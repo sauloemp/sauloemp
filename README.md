@@ -4,3 +4,4 @@
 # My Projects
 <p>As I started recently, I have few projects, but for every project I finish. I will update this list:</p>
 1. [Titanic Kaggle Challenge](https://github.com/sauloemp/TitanicKaggle)
+2. [I'm an inline-style link](https://www.google.com)
