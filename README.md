@@ -1,12 +1,12 @@
 # Hi Guys!!!
 I am a Data Scientist and Data Analitycs :chart:
-
+<br></br>
 <p>:heavy_check_mark: I am a person who likes to learn and I am always open to new challenges.</p>
-<p></p>
-
+<br></br>
+<br></br>
 <p>:house:Living: Living: Pernambuco, Brazil;</p>
 <p>:man_office_worker: Working at Ambev, Brazil;</p>
-<p>:open_book:	Bachelor's degree at Rural Universty of Pernambuco (UFRPE);<</p>
+<p>:open_book:	Bachelor's degree at Rural Universty of Pernambuco (UFRPE);</p>
 <p>🎓 Postgraduate degree at UPE - University of Pernabuco</p>
 
 # About-me
