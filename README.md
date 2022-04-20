@@ -1,18 +1,20 @@
-# Hi Guys!!!
-I am a Data Scientist and Data Analitycs :chart:
-<br></br>
-<p>:heavy_check_mark: I am a person who likes to learn and I am always open to new challenges.</p>
-<br></br>
+# Developer Profile
+![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat-square)
 
-<p>:house:Living: Living: Pernambuco, Brazil;</p>
-<p>:man_office_worker: Working at Ambev, Brazil;</p>
-<p>:open_book:	Bachelor's degree at Rural Universty of Pernambuco (UFRPE);</p>
-<p>🎓 Postgraduate degree at UPE - University of Pernabuco</p>
+Hello everyone, My name is Saulo I am a Data Scientist at Ab-Inbev 🍺:chart_with_upwards_trend:
 
-# About-me
-<p>My name is Saulo Pereira, and I'm have the bacharel degree in Business and I start the post-graduate degree in Data Scientist, Nowdays I work with a project in educational project.</p>
+:house: I'm living in Pernambuco, Brazil
+:man_office_worker: Working at BEES Care at Ab-Inbev
 
-# My Projects
-<p>As I started recently, I have few projects, but for every project I finish. I will update this list:</p>
-1. <a href = "https://github.com/sauloemp/TitanicKaggle">Titanic Kaggle Challenge</a>
+## Academic Life
+:wrench: computer networks - Technical course at SENAI-PE;
+:open_book:	Management - Bachelor's degree at Rural Universty of Pernambuco (UFRPE);
+:chart:Data Science and Analytics - Postgraduate degree at UPE - University of Pernabuco;
+:mortar_board: Applied Informatics - Master degree at Rural Universty of Pernambuco (UFRPE);
 
+
+## Languages and Technologies
+![R](https://img.shields.io/badge/-R-000?&logo=R)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake)  ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=Databricks)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)  
+
+## Contact
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/saulo_141) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saulo-pereira/)  [<img src="https://img.shields.io/badge/Email-%230056B0.svg?&style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />](saulo_141@hotmail.com)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sauloemp)
