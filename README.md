@@ -1,17 +1,17 @@
 # Developer Profile
 ![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat-square)
 
-Hello everyone, My name is Saulo I am a Data Scientist at Ab-Inbev 🍺:chart_with_upwards_trend:
+Hello everyone, My name is Saulo I'm a Data Scientist at Ab-Inbev 🍺:chart_with_upwards_trend:
 
 :house: I'm living in Pernambuco, Brazil
-:man_office_worker: Working at BEES Care at Ab-Inbev
 
 ## Academic Life
-<p>:wrench: computer networks - Technical course at SENAI-PE;</p>
-<p>:open_book:	Management - Bachelor's degree at Rural Universty of Pernambuco (UFRPE);</p>
+<br>
+<p>:wrench:computer networks - Technical course at SENAI-PE;</p>
+<p>:open_book:Management - Bachelor's degree at Rural Universty of Pernambuco (UFRPE);</p>
 <p>:chart:Data Science and Analytics - Postgraduate degree at UPE - University of Pernabuco;</p>
-<p>:mortar_board: Applied Informatics - Master degree at Rural Universty of Pernambuco (UFRPE);</p>
-
+<p>:mortar_board:Applied Informatics - Master degree at Rural Universty of Pernambuco (UFRPE);</p>
+<\br>
 
 ## Languages and Technologies
 ![R](https://img.shields.io/badge/-R-000?&logo=R)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake)  ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=Databricks)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)  
