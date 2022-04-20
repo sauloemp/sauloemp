@@ -1,4 +1,4 @@
-# Developer Profile
+# About me
 ![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat-square)
 
 Hello everyone, My name is Saulo I'm a Data Scientist at Ab-Inbev 🍺:chart_with_upwards_trend:
