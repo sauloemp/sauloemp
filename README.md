@@ -20,5 +20,5 @@ Hello everyone, My name is Saulo I'm a Data Scientist at Ab-Inbev 🍺:chart_wit
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/saulo_141) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saulo-pereira/)  [<img src="https://img.shields.io/badge/Email-%230056B0.svg?&style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />](saulo_141@hotmail.com)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sauloemp)
 
 ----
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sauloemp&layout=compact)](https://github.com/sauloemp/sauloemp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloemp&layout=compact)](https://github.com/sauloemp/)
 ----
